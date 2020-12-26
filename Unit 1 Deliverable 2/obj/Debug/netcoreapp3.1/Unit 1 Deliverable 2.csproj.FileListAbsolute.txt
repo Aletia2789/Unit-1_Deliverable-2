@@ -1,0 +1,13 @@
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\obj\Debug\netcoreapp3.1\Unit 1 Deliverable 2.csprojAssemblyReference.cache
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\obj\Debug\netcoreapp3.1\Unit 1 Deliverable 2.AssemblyInfoInputs.cache
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\obj\Debug\netcoreapp3.1\Unit 1 Deliverable 2.AssemblyInfo.cs
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\obj\Debug\netcoreapp3.1\Unit 1 Deliverable 2.csproj.CoreCompileInputs.cache
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\bin\Debug\netcoreapp3.1\Unit 1 Deliverable 2.exe
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\bin\Debug\netcoreapp3.1\Unit 1 Deliverable 2.deps.json
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\bin\Debug\netcoreapp3.1\Unit 1 Deliverable 2.runtimeconfig.json
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\bin\Debug\netcoreapp3.1\Unit 1 Deliverable 2.runtimeconfig.dev.json
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\bin\Debug\netcoreapp3.1\Unit 1 Deliverable 2.dll
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\bin\Debug\netcoreapp3.1\Unit 1 Deliverable 2.pdb
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\obj\Debug\netcoreapp3.1\Unit 1 Deliverable 2.dll
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\obj\Debug\netcoreapp3.1\Unit 1 Deliverable 2.pdb
+C:\Users\banka\Desktop\Unit 1_Deliverable 2\Unit 1 Deliverable 2\obj\Debug\netcoreapp3.1\Unit 1 Deliverable 2.genruntimeconfig.cache
